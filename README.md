@@ -7,7 +7,7 @@ experience:
   [
     "Senior Designer at Serviceplan",
     "Designer at Accenture Song",
-    "Junior Designer at Korefe™ – Part of Accenture"
+    "Junior Designer at Korefe™ Studio – Part of Accenture"
   ]
 
 education:
