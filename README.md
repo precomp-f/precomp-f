@@ -5,15 +5,15 @@ located_in: Germany
 
 experience:
   [
-    "Senior Designer at Serviceplan”,
-    "Designer at Accenture Song”,
-    "Junior Designer at Korefe™ – Part of Accenture”
+    "Senior Designer at Serviceplan",
+    "Designer at Accenture Song",
+    "Junior Designer at Korefe™ – Part of Accenture"
   ]
 
 education:
   [
-    "Bootcamp AI Engineer – Data Science and Machine Learning”,
-    "Bachelor's in Visual Communication”
+    "Bootcamp AI Engineer – Data Science and Machine Learning",
+    "Bachelor's in Visual Communication"
   ]
 
 interests:
