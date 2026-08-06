@@ -1,7 +1,14 @@
 ## Hi there, it's Juli
 
 ```yaml
-located_in: Germany 
+located_in: Germany
+
+experience:
+  [
+    “Senior Designer at Serviceplan”,
+    "Designer at Accenture Song”,
+    "Junior Designer at Korefe™ – Part of Accenture”
+  ]
 
 education:
   [
