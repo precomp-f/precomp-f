@@ -6,7 +6,7 @@ located_in: Germany
 education:
   [
     “Bootcamp AI Engineer – Data Science and Machine Learning”,
-    "Bachelor's in Visual “Communication”
+    "Bachelor's in Visual Communication”
   ]
 
 fields_of_interest:
@@ -25,10 +25,10 @@ design_stack:
   [
     "Figma",
     "Cinema 4D",
-    "Photoshop",
-    "Illustrator",
-    "InDesign",
-    "After Effects",
+    "Adobe Photoshop",
+    "Adobe Illustrator",
+    "Adobe InDesign",
+    "Adobe After Effects",
     "Touchdesigner"
   ]
 
@@ -45,3 +45,23 @@ technical_stack:
     "JavaScript"
   ]
 ```
+
+
+## 🐍 My GitHub Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/precomp-f/precomp-f/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Yprecomp-f/precomp-f/output/github-snake.svg"
+    />
+    <img
+      alt="github contribution snake"
+      src="https://raw.githubusercontent.com/precomp-f/precomp-f/output/github-snake.svg"
+    />
+  </picture>
+</p>
