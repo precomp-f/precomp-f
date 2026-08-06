@@ -1,5 +1,30 @@
 ## Hi there, it's Juli
 
+```text
+;;::::::,:,,,,,,,,"^^^^``^^"""""",,""""",,,,    julia@github ————————————————————————————————
+:;:::,,,,,,,,,,"^":l!lI>+>;"^"""""""""""",""    . Role: ........ Brand Designer & AI Engineer
+:::::,,,,,,,,"";~}tnYYYOYr)_I"^""""""""""","    . Location: ......................... Germany
+::::,,,,,,,,";+}\jxvXucYXnj(?<I^^"""""""""""    . Uptime: ............... curious since day 1
+:::,,,,:,,,,<}1(////||/||1(\)}[>,^^^^^^"""""    .
+:::,,,,,,",+[-~+<iiiI;llII;!++_+>I^^^^^^^"""    . Education: ...... B.A. Visual Communication
+::,,,,,"^;}?<>+-__~+?_+>>_]--+<i_-l^^^^^^^^"    .                   AI Engineering Bootcamp
+,::,,,""^:tuncxf1]+iIIl:l+](rujt//<`^^^^^^^^    . Experience: .. Senior Designer, Serviceplan
+,,,,,,"""^,jUYrrfxj|_,"~|fx/trcXv?^`^^^^^^^^    .                Designer, Accenture Song
+:,,,,,,"""^<}f}xnj}~-iI_~[rvn[j)_'````^^^^^^    .                Jr. Designer, Korefe (Acc.)
+,,,,""""""^>]t)~>I:;_i!+:;Ii>}/?!``````^^^^^    .
+,,,,^"^^^""^!-/?i;;<|<<)<I;l-t-l````````````    . Stack.Design: ... Figma, Cinema 4D, Adobe CC
+,",,""^^^^""'I/]-_+>?[[-><<+{/".```````````^    .                   TouchDesigner
+,,,""""^^^^^`^}-i<1\{?]{(?!<{['`````````````    . Stack.Tech: ..... Python, FastAPI, Docker
+,,,""""^^^^^^.iv1_<]{[[[_>_\uI.`````````````    .                   TensorFlow, Scikit-learn,
+,"""""^^^^^^" f8Oc[;^^^"i|cCMm'``````````^^^    .                   PostgreSQL, dbt, JavaScript
+,"^""""^^^""^ _888oOcnuYqooM8*: `^^^````````    . Interests: ...... Branding, Design, Data Viz
+,,,,,,,"^' .^-qWW&%@$$$$B8&WM8L>^  .`^^^^^^`    .                   ML, Creative Coding, Motion
+,,"`''..^i(JdW8WWMMMMMMMMWMWWM&WdC/<^    .^"    .
+"`,~{(rUpMBB8WMWWWWWWWWWWWWWWWMW&B@&bJx\{i`     - Contact ————————————————————————————————————
+<Xh&%BBB8WMMMWWWWWWWWWWWWWWWWMMMMMMW8%BB%Mqv    . Portfolio: ........ https://juliafiedler.com
+*B8WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM####M8%
+```
+
 ```yaml
 located_in: Germany
 
