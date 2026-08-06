@@ -16,7 +16,7 @@ education:
     "Bachelor's in Visual Communication”
   ]
 
-fields_of_interest:
+interests:
   [
     "Data Science",
     "Data Visualization",
@@ -52,9 +52,6 @@ technical_stack:
     "JavaScript"
   ]
 ```
-
-
-## 🐍 My GitHub Contribution Snake
 
 <p align="center">
   <picture>
